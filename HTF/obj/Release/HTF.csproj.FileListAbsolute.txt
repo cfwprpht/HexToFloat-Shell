@@ -1,0 +1,6 @@
+D:\Coding\HTF\HTF\bin\Release\HTF.exe.config
+D:\Coding\HTF\HTF\bin\Release\HTF.exe
+D:\Coding\HTF\HTF\bin\Release\HTF.pdb
+D:\Coding\HTF\HTF\obj\Release\HTF.exe
+D:\Coding\HTF\HTF\obj\Release\HTF.pdb
+D:\Coding\HTF\HTF\obj\Release\HTF.csprojResolveAssemblyReference.cache
